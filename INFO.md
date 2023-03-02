@@ -22,6 +22,7 @@ python setup.py develop
 d2lbook build pdf
 ```
 
+
 ### Fonts for PDF
 
 ```
@@ -35,6 +36,7 @@ sudo bash install_fonts.sh
 ```
 d2lbook build html
 ```
+
 
 ## Install Fonts
 
@@ -58,3 +60,4 @@ sudo mv Inconsolata /usr/share/fonts/opentype/
 sudo fc-cache -f -v
 
 ```
+
